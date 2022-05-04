@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ÜTF-8"?>
+<widget xmls="http://www.w3.org/ns/widgets"
+        xmlns:gap="http://phonegap.com/ns/1.0"
+        id="com.itvarsity.pinecityzoo"
+        versionCode="10"
+        version="1.0.0">
+    <name> Pine City Zoo</name>
+    <description>An online map showing the pine city zoo and amenities</description>
+    <author>Yajna Balwanth</author>
+</widget>
